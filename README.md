@@ -1,4 +1,4 @@
-<b><b>Optimus-Learning</b><b>
+<b><b>Optimus-Learning</b></b>
 A repository for our day-to-day projects at OptimusLogic.
 
 Problem Definition:
