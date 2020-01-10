@@ -45,7 +45,7 @@ Step 9:for loop to iterate through the words.
                           counts[word] = 1
 Step 10:Print the repeated words along with their occurances.
 
-User Manual:
+# User Manual:
 1.Enter the text file name along with.txt format when prompted for the filename.
 
 2.The output will be displayed as follows:
